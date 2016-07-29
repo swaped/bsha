@@ -1,14 +1,15 @@
 # BSHA
 Website build archetype for BSHA
+<br /><br /><br /><br />
 
 
 #Setup
-
 Node/Gulp build
 Download the repo locally and..<br />
 -> $npm install -d <br />
   /* This will install all the required dependencies for the project! */
- <br /><br />
+ <br /><br /><br /><br />
+ 
 #Development
 > On the root directory run <br />
   -> $gulp watch <br />
