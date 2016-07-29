@@ -1,0 +1,39 @@
+{
+  "name": "bsha-site",
+  "version": "1.0.0",
+  "description": "BSHA Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaped/bsha.git"
+  },
+  "keywords": [
+    "BSHA"
+  ],
+  "author": "swapnil.khode@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaped/bsha/issues"
+  },
+  "homepage": "https://github.com/swaped/bsha#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-twig": "^0.5.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-useref": "^3.1.0",
+    "gulp-wrap": "^0.13.0",
+    "merge-stream": "^1.0.0",
+    "run-sequence": "^1.2.2"
+  }
+}

@@ -1,0 +1,35 @@
+body {
+  /** base overrides **/ }
+  body a {
+    color: #6b914e;
+    text-decoration: none; }
+    body a:hover {
+      color: #425d2e;
+      text-decoration: underline; }
+  body .container {
+    text-align: center; }
+    body .container h1,
+    body .container h2,
+    body .container h3 {
+      color: #6b914e;
+      font-size: 2em;
+      margin: 1em 0;
+      text-transform: uppercase; }
+    body .container .header img {
+      margin: 0 0 20px; }
+    body .container .header ul {
+      list-style: none; }
+      body .container .header ul li {
+        display: inline-block;
+        margin: 0 40px; }
+    body .container .hero img {
+      width: 100%; }
+    body .container .column img,
+    body .container .columns img {
+      width: 100%; }
+    body .container .column.text-content,
+    body .container .columns.text-content {
+      text-align: left; }
+    body .container .local-events .row {
+      background-color: #7da85d;
+      color: #7da85d; }
