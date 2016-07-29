@@ -1,5 +1,5 @@
 # BSHA
-Website archetype for BSHA
+Website build archetype for BSHA
 
 
 #Setup
