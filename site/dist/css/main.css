@@ -15,6 +15,12 @@ body {
       font-size: 2em;
       margin: 1em 0;
       text-transform: uppercase; }
+    body .container p {
+      line-height: 1.8; }
+    body .container .icon {
+      text-align: right; }
+      body .container .icon img {
+        max-width: 113px; }
     body .container .header img {
       margin: 0 0 20px; }
     body .container .header ul {
@@ -31,5 +37,7 @@ body {
     body .container .columns.text-content {
       text-align: left; }
     body .container .local-events .row {
-      background-color: #7da85d;
-      color: #7da85d; }
+      background-color: #7da85d; }
+      body .container .local-events .row p,
+      body .container .local-events .row h1, body .container .local-events .row h2, body .container .local-events .row h3 {
+        color: #fff; }
